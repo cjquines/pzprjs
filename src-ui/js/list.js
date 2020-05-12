@@ -357,7 +357,9 @@
 			"doppelblock",
 			"tents",
 			"detour",
-			"snake"
+			"snake",
+			"putteria",
+			"haisu"
 		]
 	};
 	var tabstate = {
